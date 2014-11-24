@@ -22,5 +22,5 @@ Just so I don't lose my mind, here are some notes for this year's gathering.
 
 ## Games
 
-* Cards (euchre, etc.) :card:
+* Cards (euchre, etc.) :spades: :hearts: :clubs: :diamonds:
 * Settlers of Catan
