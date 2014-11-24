@@ -16,10 +16,11 @@ Just so I don't lose my mind, here are some notes for this year's gathering.
 
 ## Activities
 
-* football
-* more football
+* :football: on :tv:
+* more :football: on :tv:
+* :zzz:
 
 ## Games
 
-* Cards (euchre, etc.)
+* Cards (euchre, etc.) :card:
 * Settlers of Catan
