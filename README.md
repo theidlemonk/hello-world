@@ -24,3 +24,6 @@ Just so I don't lose my mind, here are some notes for this year's gathering.
 
 * Cards (euchre, etc.) :spades: :hearts: :clubs: :diamonds:
 * Settlers of Catan
+
+## TODO
+ - [ ] make the food
